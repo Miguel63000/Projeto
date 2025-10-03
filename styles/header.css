@@ -22,3 +22,6 @@
   border-inline: none;
   justify-content: space-between;
 }
+strong:hover{
+  color: var(--brand-color-light);
+}
