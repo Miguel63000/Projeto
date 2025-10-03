@@ -1,6 +1,6 @@
 #primary{
   padding-block: 20px;
-
+  font-family: "Poppins", sans-serif;
   div{
     display: flex;
     align-items: center;
@@ -16,6 +16,7 @@
   }
 }
 #secondary{
+  font-family: "Poppins", sans-serif;
   padding-block: 14px;
   border: solid 1px var(--stroke-color);
   border-inline: none;
