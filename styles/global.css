@@ -42,7 +42,8 @@ img{
   max-width: 100%;
 }
 main{
-  margin-top: 40px;
+ margin-top: 40px;
+ gap: 80px;
 }
 .content-tag{
   display: inline-block;
@@ -53,4 +54,13 @@ main{
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--text-color-primary);
+  box-shadow: 0px 4px 16px black;
 }
+.grid{
+  display: grid;
+}
+.grid-flow-col{
+  grid-auto-flow: column;
+}
+
+
