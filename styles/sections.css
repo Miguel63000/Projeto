@@ -88,5 +88,13 @@ a {
 }
 }
 
-
+#ai{
+  display: flex;
+  flex-direction: column;
+  border-top: 2px solid #1E293B;
+ 
+  p{
+    --font-family: "Poppins", sans-serif;
+  }
+}
 
